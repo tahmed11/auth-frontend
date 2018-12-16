@@ -1,3 +1,6 @@
+# ignore input.env file
+input.env
+
 # Logs
 logs
 *.log
