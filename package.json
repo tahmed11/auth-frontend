@@ -5,7 +5,7 @@
   "dependencies": {
     "@blueprintjs/core": "^2.3.1",
     "@blueprintjs/icons": "^2.2.1",
-    "aws-amplify": "^0.4.8",
+    "aws-amplify": "^1.0.0",
     "aws4": "^1.7.0",
     "history": "^4.7.2",
     "react": "^16.4.1",
